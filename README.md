@@ -2,7 +2,7 @@
 
 The Solar theme was originally developed for [Bootswatch](https://github.com/thomaspark/bootswatch), but never became part of an official release and was eventually dropped. 
 
-This is the fork of Solar we use in [Bootstrap Studio](https://bootstrapstudio.io/). It is updated to support Bootstrap 3.4.0.
+This is the fork of Solar we use in [Bootstrap Studio](https://bootstrapstudio.io/). It is updated to support Bootstrap 3.4.1.
 
 ## Copyright and License
 
